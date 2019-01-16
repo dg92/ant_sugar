@@ -6,3 +6,4 @@ A generation live for certain amount of time and then dies.
 
 This small project shows how ant's passess traits to their next generation to figure out the path to sugar avoiding obstacle.
 
+checkout this out -> https://dg92.github.io/ant_sugar/
